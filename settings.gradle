@@ -1,2 +1,3 @@
 rootProject.name = "My Milight Remote"
 include ':app'
+include ':MyMilightLib'

@@ -1,0 +1,3 @@
+[submodule "MyMilightLib"]
+	path = MyMilightLib
+	url = https://github.com/bartimaeusnek/MyMilightLib-J.git
